@@ -36,6 +36,7 @@ const GitHubButton = () => {
       target="_blank"
       ref={buttonRef}
       rel="noopener noreferrer"
+      href="https://github.com/Jimmy-DSA/Visionary#"
       className="github-button hover:cursor-pointer hover:!opacity-100 flex flex-row items-center justify-center"
     >
       <FaGithub />
@@ -55,13 +56,13 @@ const Footer = () => {
         <h3 className="text-xl font-semibold mb-4">Siga-nos</h3>
 
         <div className="flex justify-center space-x-6 mb-6">
-          <a href="#" className="text-gray-400 hover:text-white">
+          <a href="#" className="text-gray-400 hover:text-black">
             Facebook
           </a>
-          <a href="#" className="text-gray-400 hover:text-white">
+          <a href="#" className="text-gray-400 hover:text-black">
             Instagram
           </a>
-          <a href="#" className="text-gray-400 hover:text-white">
+          <a href="#" className="text-gray-400 hover:text-black">
             Twitter
           </a>
         </div>

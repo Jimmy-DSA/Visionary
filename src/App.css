@@ -17,7 +17,7 @@ body {
 
 .canvas-container[data-position="absolute"] {
   position: absolute;
-  margin-top: -48vh;
+  margin-top: -320px;
   top: auto;
   left: 0;
   width: 100%;
